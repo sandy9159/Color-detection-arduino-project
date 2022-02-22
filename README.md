@@ -148,6 +148,7 @@ like breadboard or Zero PCB earlier I also was in the same boat, I hesitate to t
 but then I came to know about [JLCPCB.COM](https://jlcpcb.com/IAT) and I was totally surprised how low price PCB's are they offering 
 
 there PCB quality is best in market, now I always go with PCB for my project and [JLCPCB.COM](https://jlcpcb.com/IAT) is my trusted 
+PCB manufacturer. 
 
 If new user signup now using this link [JLCPCB.COM](https://jlcpcb.com/IAT) you will get coupons worth of 27$ from [JLCPCB.COM](https://jlcpcb.com/IAT)
 
